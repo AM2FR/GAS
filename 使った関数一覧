@@ -1,0 +1,36 @@
+# Dateオブジェクト.getDay　……Dateオブジェクトの曜日データを取得。
+Dateオブジェクトの「曜日データ」を0~6の数値で取得する。
+<table border="1">
+  <tr bgcolor="orange">
+    <th>曜日</th>
+    <th>番号</th>
+  </tr>
+  <tr>
+    <th>日曜日</th>
+    <th>0</th>
+  </tr>
+  <tr>
+    <th>月曜日</th>
+    <th>1</th>
+  </tr>
+  <tr>
+    <th>火曜日</th>
+    <th>2</th>
+  </tr>
+  <tr>
+    <th>水曜日</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <th>木曜日</th>
+    <th>4</th>
+  </tr>
+  <tr>
+    <th>金曜日</th>
+    <th>5</th>
+  </tr>
+  <tr>
+    <th>土曜日</th>
+    <th>6</th>
+  </tr>
+</table>
